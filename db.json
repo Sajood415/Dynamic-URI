@@ -1,1 +1,180 @@
-
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Jolteon Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/0.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/0",
+            "name": "Jolteon",
+			"level": "Stage 1",
+			"HP": "90",
+			"weapon1": "Electrigun",
+			"weapon2": "Pin Missile"
+        },
+        {
+            "id": 1,
+            "description": "Espeion Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/1.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/1",
+            "name": "Espeon",
+			"level": "Stage 1",
+			"HP": "90",
+			"weapon1": "Solar Revelation",
+			"weapon2": "Psy Report"
+        },
+        {
+            "id": 2,
+            "description": "Glaceon Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/2.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/2",		
+            "name": "Glaceon",
+			"level": "Stage 1",
+			"HP": "100",
+			"weapon1": "Quick Attack",
+			"weapon2": "Reflect Energy"
+        },
+        {
+            "id": 3,
+            "description": "Umbreon Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/3.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/3",
+            "name": "Umbreon",
+			"level": "Stage 1",
+			"HP": "100",
+			"weapon1": "Shadow Drain",
+			"weapon2": "Slashing Strike"        },
+        {
+            "id": 4,
+            "description": "Flareon Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/4.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/4",
+            "name": "Flareon",
+			"level": "Stage 1",
+			"HP": "90",
+			"weapon1": "Sand Attack",
+			"weapon2": "Fire Slash"
+        },
+        {
+            "id": 5,
+            "description": "Vaporeon Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/5.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/5",
+            "name": "Vaporeon",
+			"level": "Stage 1",
+			"HP": "110",
+			"weapon1": "Muddy Water",
+			"weapon2": "Spiral Drain"
+        },
+        {
+            "id": 6,
+            "description": "Eevee Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/6.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/6",
+            "name": "Eevee",
+			"level": "Basic",
+			"HP": "60",
+			"weapon1": "Growl",
+			"weapon2": "Quick Attack"
+        },
+		{
+            "id": 7,
+            "description": "Leafeon Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/7.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/7",
+            "name": "Leafeon",
+			"level": "Stage 1",
+			"HP": "90",
+			"weapon1": "Quick Attack",
+			"weapon2": "Energy Assist"
+        },	
+        {
+            "id": 8,
+            "description": "Gyarados Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/8.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/8",
+            "name": "Gyarados",
+			"level": "Stage 2",
+			"HP": "130",
+			"weapon1": "Hydro Splash",
+			"weapon2": "Hyper Beam"
+        },
+		{
+            "id": 9,
+            "description": "Tangela Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/9.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/9",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/9",			
+            "name": "Tangela",
+			"level": "Basic",
+			"HP": "80",
+			"weapon1": "Bind",
+			"weapon2": "Poison Power"
+        },
+		{
+            "id": 10,
+            "description": "Umbreon2 Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/10.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/10",
+            "name": "Umbreon2",
+			"level": "Stage 2",
+			"HP": "90",
+			"weapon1": "Moonlight Fang",
+			"weapon2": "Quick Blow"
+        },
+		{
+            "id": 11,
+            "description": "Charmeleon Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/11.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/11",
+            "name": "Charmeleon",
+			"level": "Stage 1",
+			"HP": "80",
+			"weapon1": "Slash",
+			"weapon2": "Flamethrower"
+        },
+		{
+            "id": 12,
+            "description": "Charmander Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/12.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/12",
+            "name": "Charmander",
+			"level": "Basic",
+			"HP": "60",
+			"weapon1": "Scratch",
+			"weapon2": "Ember"
+        },
+		{
+            "id": 13,
+            "description": "Galvantula Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/13.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/13",
+            "name": "Galvantula",
+			"level": "Stage 1",
+			"HP": "80",
+			"weapon1": "Electroweb",
+			"weapon2": "Leech Life"
+        },
+		{
+            "id": 14,
+            "description": "Magikarp Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/14.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/14",
+            "name": "Magikarp",
+			"level": "Basic",
+			"HP": "60",
+			"weapon1": "Splash",
+			"weapon2": ""
+        },
+		{
+            "id": 15,
+            "description": "Charizard Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/15.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/15",
+            "name": "Charizard",
+			"level": "Stage 2",
+			"HP": "120",
+			"weapon1": "Fire Spin",
+			"weapon2": ""
+        }					
+    ]
+}

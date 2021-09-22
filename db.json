@@ -4,7 +4,7 @@
             "id": 0,
             "description": "Jolteon Pokemon",
             "image": "https://github.com/Sajood415/Dynamic-URI/blob/main/art/0.png",
-			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/0",
+			"external_url":"https://my-json-server.typicode.com/Sajood415/Dynamic-URI/tokens/0",
             "name": "Jolteon",
 			"level": "Stage 1",
 			"HP": "90",
